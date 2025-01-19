@@ -1,0 +1,38 @@
+.studentModalTitle {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  color: #09174a;
+}
+
+.studentModalLabel {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #09174a;
+}
+.StudentModal-ButtonAdd {
+  background: #ed7966;
+  border-radius: 5px;
+  padding: 10px 15px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: #ffffff;
+  border: none;
+}
+.StudentModal-ButtonClose {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  padding: 10px 10px 5px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  color: #7e7e7f;
+  border: 2px solid #d4cfcf;
+}

@@ -1,0 +1,62 @@
+.SideBar {
+  /*margin: 0;
+   padding: 0; */
+  /* width: 17%;  */
+  flex-direction: row;
+  justify-content: space-between;
+  top: 0;
+  width: 100%;
+  height: 100vh;
+  /* background-color: #ed7966; */
+}
+
+.whitetext {
+  color: #fff;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+}
+.whitelogo {
+  max-width: 36px;
+  height: 41px;
+}
+.sidebtn {
+  display: flex;
+  flex-direction: column;
+  width: 95%;
+
+  margin-top: 60px;
+}
+.sidebuttons {
+  width: 100%;
+  background-color: #ed7966;
+  border: none;
+  color: #fff;
+  /* width: 80%;
+   height: 44px; */
+  font-weight: 500;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.sidebuttons:hover {
+  background-color: #ec8d7e;
+}
+.sidemd {
+  font-size: 20px;
+}
+.personone{
+  width: 40px;
+  height: 30px;
+}
+.bottomdiv{
+ 
+  bottom: 0;
+  margin-bottom: 50px;
+  border-top: 2px solid ;
+  width: 80%;
+  
+  
+
+}

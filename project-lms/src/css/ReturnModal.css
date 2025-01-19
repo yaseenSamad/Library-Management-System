@@ -1,0 +1,35 @@
+.returnModalContent {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: #414141;
+}
+.returnModalHeader {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  color: #09174a;
+}
+.returnModalreturn {
+  background: #ed7966;
+  border-radius: 5px;
+  padding: 10px 38px;
+  border: none;
+  color: #ffffff;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+}
+.returnModalClose {
+  background-color: #ffffff;
+  border-radius: 5px;
+  padding: 10px 38px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  border: #d4cfcf 2px solid;
+}

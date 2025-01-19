@@ -1,0 +1,68 @@
+.IssueBookAddBtn{
+    background: #ed7966;
+    border-radius: 5px;
+    padding: 10px 15px;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #ffffff;
+    border: none;
+
+}
+.IssueBookCloseBtn{
+    font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  padding: 10px 10px 6px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  color: #7e7e7f;
+  border: 2px solid #d4cfcf;
+    
+}
+.IssueBookModalTitle{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #09174A;
+}
+.IssueBookModalLabel{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #09174A;
+}
+.issuemodalstudentname{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #09174A;
+}
+.IssueBookModalLabel{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #09174A;
+}
+.IssueBookModalLabel{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #09174A;
+}
+.issuedatemodal{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #09174A;
+}
+
+

@@ -1,0 +1,75 @@
+.loginmain {
+  height: 100%;
+}
+.logologin {
+  max-width: 45px;
+  max-height: 51.37px;
+}
+.logologintext {
+  font-weight: 800;
+  font-size: 24px;
+  color: #ed7966;
+}
+.login-button {
+  width: 100%;
+  height: 39px;
+  background: #ed7966;
+  border-radius: 5px;
+  border: 0;
+  color: #fff;
+}
+.login-input {
+  width: 100%;
+  max-height: 44px;
+}
+.errormsg {
+  color: red;
+}
+.admin-student {
+  list-style: none;
+}
+
+.Login-divider {
+  border-top: solid 1px;
+  color: #e3e3e3;
+}
+.logintext {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  color: #09174a;
+}
+.welcometext {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #646464;
+}
+.studentbtn {
+  border-right: none;
+  border-top: none;
+  border-left: none;
+  background: transparent;
+}
+.adminbtn {
+  border-right: none;
+  border-top: none;
+  border-left: none;
+  background: transparent;
+}
+.registerlink{
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #646464;
+
+}
+.registerbutton{
+  text-decoration: none;
+}

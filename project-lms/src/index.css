@@ -1,0 +1,234 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat:ital,wght@0,400;1,100&display=swap');
+
+*,html,body{
+  font-family: 'Lato';
+  font-style: normal;
+}
+.App-div-first{
+  height: 100vh;
+}
+
+
+/* .loginmain{
+
+  height: 100%;
+
+}
+.logologin{
+  max-width: 45px;
+  max-height: 51.37px;
+}
+.logologintext{
+  font-weight: 800;
+font-size: 24px;
+color: #ED7966;
+
+}
+.login-button{
+  width: 100% ;
+  height: 39px;
+  background: #ED7966;
+border-radius: 5px;
+border: 0;
+color: #fff;
+}
+.login-input{
+  width: 100%;
+  max-height: 44px;
+}
+.errormsg{
+  color: red;
+}
+.admin-student{
+  list-style: none;
+}
+
+.Login-divider{
+  border-top: solid 1px;
+  color: #E3E3E3;
+} */
+
+/* -----------
+.SideBar{
+
+ 
+  
+  top: 0;
+  width: 100%;
+  height: 100vh; 
+  background-color: #ED7966;
+}
+
+.whitetext{
+  color: #fff;
+  font-family: 'Lato';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+
+}
+.whitelogo{
+ max-width: 36px ; 
+ height: 41px;
+}
+.sidebtn{
+ display: flex;
+ flex-direction: column;
+ align-items: flex-start;
+ margin-top: 60px;
+}
+.sidebuttons{
+  background-color: #ED7966 ;
+  border: none ;
+  color: #fff;
+font-weight: 500;
+font-size: 16px;
+  border-radius: 5px;
+ 
+
+}
+
+.sidebuttons:hover{
+  background-color: #EC8D7E ; 
+  
+  
+  
+}
+.sidemd{
+  font-size: 20px;
+ 
+} */
+
+/* -------------- */
+
+.div-main{
+  height: 100%;
+  width: 100%;
+  background-color: #F5F5F5;;
+  
+  
+  
+  
+
+}
+.inputsearch{
+  width: 85%;
+  border: none !important;
+  height: 40px ;
+
+}
+
+
+.inputsearch:focus{
+  outline: none !important;
+  -webkit-appearance:none;
+  box-shadow: none !important;
+}
+
+
+
+
+.mainsearch-div{
+  width: 90%;
+}
+.search-main-icon{
+
+  
+  background: #FFFFFF;
+border: 1px solid #CECECE;
+border-radius: 5px;
+
+
+}
+.search-btn{
+  justify-content: space-between;
+}
+.searchicon{
+  color: #939393;
+  height: 20.91px;
+  width: 100%;
+}
+.main-button{
+  background: #ED7966;
+border-radius: 5px;
+border: none;
+font-weight: 500;
+font-size: 16px;
+color: #fff;
+text-align: center;
+padding-inline: 20px;
+padding-block: 10px;
+}
+/* .student-table , .Allbooks-table , .Issuepage-table{      
+  border-bottom: solid 1px #E3E3E3;
+} */
+
+.student-row,.Allbooks-row,.Issuepage-row{      
+  border-bottom: solid 1px #E3E3E3;
+}
+.head-student,.head-Allbooks , .head-Issuepage{
+  font-weight: 500;
+font-size: 16px;
+color: #646464;
+
+}
+.student-content,.Allbooks-content,.Issuepage-content  {
+  font-weight: 500;
+font-size: 16px;
+color: #09174A;
+}
+.main-header{
+  font-weight: 600;
+font-size: 20px;
+color: #09174A;
+}
+.Issuepage-return,.Student-eye{
+  font-size: 20px ;
+  color:  #7E7E7F;;
+}
+.studenttable , .Allbookstable, .Issuepagetable{
+  background-color: #FFFFFF;
+}
+
+
+.Student-delete,.Allbooks-delete{
+  font-size: 20px ;
+  color: #D04444;;
+}
+.Student-edit,.Allbooks-edit{
+  font-size: 20px ;
+  color: #7E7E7F;;
+}
+.student-main , .IssueMain-main ,.AllMain-main {
+  min-height: 95vh;
+  background-color: #F5F5F5;
+}
+/* .student-content{
+  flex-wrap: wrap;
+} */
+
+
+
+.sidebtn > a:nth-child(1) , a:nth-child(2) , a:nth-child(3){
+  text-decoration: none ;
+}
+.sidebtn > a:nth-child(1) , a:nth-child(2) , a:nth-child(3){
+  text-decoration: none ;
+}
+.returnbutton{
+  background-color: transparent;
+  border: none;
+}
+.sidebar-div{
+  height: 100%;
+}
+.person-sidebar{
+  width: 20% !important;
+  height: 20% !important;
+}
+.bottomdiv {
+  position: absolute;
+  top: 72;
+  color: #FFFFFF;
+  
+}

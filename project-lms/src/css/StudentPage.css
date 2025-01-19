@@ -1,0 +1,93 @@
+.container-student-page{
+    height: 100%;
+    width: 100%;
+    background-color: #F5F5F5;
+}
+
+.container-student-page-header{
+
+    font-weight: 600;
+    font-size: 20px;
+    color: #09174A;
+}
+.search-sort-div{
+    justify-content: space-between;
+}
+.student-search-div{
+    width: 90%;
+}
+.inputsearch{
+    width: 85%;
+    border: none !important;
+    height: 40px ;
+  
+  }
+  
+  
+  .inputsearch:focus{
+    outline: none !important;
+    -webkit-appearance:none;
+    box-shadow: none !important;
+  }
+
+  .student-form-container{
+    background-color: #FFFFFF;
+  }
+
+  .student-form-title{
+
+    font-weight: 500;
+    font-size: 16px;
+    color: #646464;
+  }
+.student-form-field{
+    border-bottom: solid 1px #E3E3E3;
+}
+.student-form-data{
+    font-weight: 500;
+    font-size: 16px;
+    color: #09174A;
+}
+.sort-para{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    color: #282829;
+}
+#dropdown-autoclose-true\ {
+    
+    background: #FFFFFF !important;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #282829;
+    border: none;
+}
+.mybooks-filter{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #09174A;
+opacity: 0.6;
+cursor: pointer;
+}
+.mybooks-page{
+    min-height: 95vh;
+    background-color: #F5F5F5;
+}
+.studentallbooks-page{
+    min-height: 95vh;
+    background-color: #F5F5F5;
+}
+.mybooks-filter:active{
+    color: black;
+}
+.student-eye{
+    font-size: 20px;
+    color: #7E7E7F;
+}
+
